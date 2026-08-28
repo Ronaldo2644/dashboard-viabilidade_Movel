@@ -8,9 +8,6 @@ Dashboard interativo para análise de cobertura de telecomunicações. Carregue 
 <img width="1911" height="901" alt="image" src="https://github.com/user-attachments/assets/d81712da-79ba-48c3-a3eb-4072feb5fad1" />
 
 
-![Preview do Dashboard](https://via.placeholder.com/800x400?text=Dashboard+Preview) 
-*(Substitua esta imagem por um print real do seu dashboard depois)*
-
 ## 🚀 Funcionalidades
 
 - 📂 **Upload de planilhas Excel (.xlsx/.xls)** – Carregue sua base de antenas com colunas como Operadora, Latitude, Longitude, Tecnologias (Tecs), Faixa, etc.
