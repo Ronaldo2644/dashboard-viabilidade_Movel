@@ -10,7 +10,7 @@ Dashboard interativo para análise de cobertura de telecomunicações. Carregue 
 
 - 📂 **Upload de planilhas Excel (.xlsx/.xls)** – Carregue sua base de antenas com colunas como Operadora, Latitude, Longitude, Tecnologias (Tecs), Faixa, etc.
 - 🗺️ **Mapa interativo (Leaflet)** – Visualize todas as antenas e os pontos pesquisados.
-- 🔍 **Busca por endereço ou coordenadas** – Usa o Nominatim (OSM) para geocodificar ou "o melhor cenário" inserindo as coordenadas diretamente (ex: `-28.72917, -54.9075`).
+- 🔍 **Busca por endereço ou coordenadas** – Usa o Nominatim (OSM) para geocodificar ou inserindo as coordenadas diretamente (ex: `-28.72917, -54.9075`) que é "o melhor cenário".
 - 📏 **Raio dinâmico** – Ajuste o raio de busca de 0,5 km a 20 km com um slider.
 - 🎯 **Filtros avançados** – Filtre os resultados por **Operadora** (Tim, Vivo, Claro, Oi) e por **Tecnologia** (4G, 5G, 3G, etc.).
 - 📊 **Indicadores em tempo real** – Veja a contagem total de antenas, operadoras disponíveis, tecnologias presentes e a distância da antena mais próxima.
