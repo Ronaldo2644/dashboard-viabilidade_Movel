@@ -46,36 +46,7 @@ Ao fazer o upload, o sistema espera que a planilha tenha as seguintes colunas (o
 | `Tecs` | Tecnologias suportadas separadas por espaço (ex: 4G 5G) |
 | `Faixa` | Faixa de frequência (ex: 700 MHz, 2.5 GHz) |
 
-<a href="https://www.telecocare.com.br/mapaerbs/index.php" class="btn-chamativo">
-    🚀 Acessar Dashboard
-</a>
-
-<style>
-.btn-chamativo {
-    display: inline-block;
-    padding: 16px 40px;
-    background: linear-gradient(135deg, #1b4a7a, #2c6b9e);
-    color: #fff;
-    font-size: 20px;
-    font-weight: 700;
-    text-decoration: none;
-    border-radius: 50px;
-    box-shadow: 0 4px 15px rgba(27, 74, 122, 0.4);
-    transition: all 0.3s ease;
-    font-family: 'Segoe UI', sans-serif;
-    border: 2px solid rgba(255, 255, 255, 0.2);
-}
-
-.btn-chamativo:hover {
-    transform: translateY(-3px) scale(1.02);
-    box-shadow: 0 8px 30px rgba(27, 74, 122, 0.6);
-    background: linear-gradient(135deg, #0f3a5f, #1b4a7a);
-}
-
-.btn-chamativo:active {
-    transform: scale(0.97);
-}
-</style>
+[![Baixar ERBs](https://img.shields.io/badge/📥_Baixar_ERBs-0066b3?style=for-the-badge&logo=download&logoColor=white)](https://www.telecocare.com.br/mapaerbs/index.php)
 
 
 ## 🧑‍💻 Como usar (online)
