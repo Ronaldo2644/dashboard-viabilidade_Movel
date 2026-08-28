@@ -1,7 +1,5 @@
-# dashboard-viabilidade_Movel
-Dashboard interativo para estudo de viabilidade de cobertura móvel (4G/5G) a partir de dados de ERBs (estações rádio-base).
 
-# 📡 Estudo de Viabilidade – Cobertura Móvel
+# 📡 DASHBOARD - Estudo de Viabilidade – Cobertura Móvel  (2G/3G/4G/5G)
 
 Dashboard interativo para análise de cobertura de telecomunicações. Carregue uma planilha com dados de antenas (ERBs), pesquise por endereços ou coordenadas, e visualize em um mapa interativo quais operadoras e tecnologias estão disponíveis em um raio de até 20 km.
 
