@@ -46,8 +46,8 @@ Ao fazer o upload, o sistema espera que a planilha tenha as seguintes colunas (o
 | `Tecs` | Tecnologias suportadas separadas por espaço (ex: 4G 5G) |
 | `Faixa` | Faixa de frequência (ex: 700 MHz, 2.5 GHz) |
 
-(https://www.telecocare.com.br/mapaerbs/index.php/)
-[![Baixe a planilha](https://img.shields.io/badge/▶️_Baixe a planilha-1b4a7a?style=for-the-badge&logo=githubpages&logoColor=white)](https://www.telecocare.com.br/mapaerbs/index.php/)
+[![Acessar Dashboard](https://img.shields.io/badge/🚀_Acessar_Dashboard-1b4a7a?style=for-the-badge&logo=githubpages&logoColor=white)](https://www.telecocare.com.br/mapaerbs/index.php)
+
 
 ## 🧑‍💻 Como usar (online)
 
