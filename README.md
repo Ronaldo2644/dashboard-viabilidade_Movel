@@ -54,7 +54,7 @@ Ao fazer o upload, o sistema espera que a planilha tenha as seguintes colunas (o
 [![Acessar Dashboard](https://img.shields.io/badge/▶️_Acessar_Dashboard-1b4a7a?style=for-the-badge&logo=githubpages&logoColor=white)](https://ronaldo2644.github.io/dashboard-viabilidade_Movel/)
 
 1. Acesse o link .
-2. Clique em **"Carregar Pasta1.xlsx"** e selecione sua planilha.
+2. Clique em **"Carregar ERBs.xlsx"** e selecione sua planilha.
 3. Digite um endereço (ex: `Av. Paulista, 1000, São Paulo`) ou coordenadas (ex: `-23.5505, -46.6333`) no campo de busca.
 4. Ajuste o raio de busca (padrão 5 km).
 5. Clique em **"Buscar"** para visualizar as antenas no mapa e na tabela.
