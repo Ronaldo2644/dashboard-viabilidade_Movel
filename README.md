@@ -5,6 +5,9 @@ Dashboard interativo para estudo de viabilidade de cobertura móvel (4G/5G) a pa
 
 Dashboard interativo para análise de cobertura de telecomunicações. Carregue uma planilha com dados de antenas (ERBs), pesquise por endereços ou coordenadas, e visualize em um mapa interativo quais operadoras e tecnologias estão disponíveis em um raio de até 20 km.
 
+<img width="1911" height="901" alt="image" src="https://github.com/user-attachments/assets/d81712da-79ba-48c3-a3eb-4072feb5fad1" />
+
+
 ![Preview do Dashboard](https://via.placeholder.com/800x400?text=Dashboard+Preview) 
 *(Substitua esta imagem por um print real do seu dashboard depois)*
 
