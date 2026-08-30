@@ -66,9 +66,9 @@ Se este dashboard ajudou você em seus estudos ou trabalho, considere contribuir
 Sua doação incentiva novas funcionalidades, correções e manutenção do projeto ou novas ideias.
 
 Como contribuir
-PIX: `QRCODE ABAIXO`
-PayPal: https://www.paypal.com/donate/?hosted_button_id=UK57366LPFBS8
-QR Code – aponte a câmera do seu celular para o código abaixo e faça sua doação via PIX:
+ - PIX: `QRCODE ABAIXO`
+ - PayPal: https://www.paypal.com/donate/?hosted_button_id=UK57366LPFBS8
+ - QR Code – aponte a câmera do seu celular para o código abaixo e faça sua doação via PIX:
 
 <img src="https://github.com/Ronaldo2644/dashboard-viabilidade_Movel/raw/main/QRCODE.jpeg" alt="QR Code PIX" width="200" height="200" />
 
