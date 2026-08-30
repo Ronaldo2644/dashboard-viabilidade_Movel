@@ -55,7 +55,7 @@ Ao fazer o upload, o sistema espera que a planilha tenha as seguintes colunas (o
 
 1. Acesse o link .
 2. Clique em **"Carregar ERBs.xlsx"** e selecione sua planilha.
-3. Digite um endereço (ex: `Av. Paulista, 1000, São Paulo`) ou coordenadas (ex: `-23.5505, -46.6333`) no campo de busca.
+3. Digite um endereço (ex: `Av. Paulista, 1000, São Paulo`) ou coordenadas (ex: `-23.5505, -46.6333` ou nome de referencia; -28.72917, -54.9075) no campo de busca.
 4. Ajuste o raio de busca (padrão 5 km).
 5. Clique em **"Buscar"** para visualizar as antenas no mapa e na tabela.
 6. Use os filtros de Operadora e Tecnologia para refinar os resultados.
