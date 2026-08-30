@@ -10,7 +10,7 @@ Dashboard interativo para análise de cobertura de telecomunicações. Carregue 
 
 - 📂 **Upload de planilhas Excel (.xlsx/.xls)** – Carregue sua base de antenas com colunas como Operadora, Latitude, Longitude, Tecnologias (Tecs), Faixa, etc.
 - 🗺️ **Mapa interativo (Leaflet)** – Visualize todas as antenas e os pontos pesquisados.
-- 🔍 **Busca por endereço ou coordenadas** – Usa o Nominatim (OSM) para geocodificar ou inserindo as coordenadas diretamente (ex: `-28.72917, -54.9075`) que é "o melhor cenário".
+- 🔍 **Busca por endereço ou coordenadas** – Usa o Nominatim (OSM) para geocodificar ou inserindo as coordenadas diretamente (ex: `-28.72917, -54.9075`) ou (nome de referencia; -28.72917, -54.9075) que é "o melhor cenário para identificar o ponto".
 - 📏 **Raio dinâmico** – Ajuste o raio de busca de 0,5 km a 20 km com um slider.
 - 🎯 **Filtros avançados** – Filtre os resultados por **Operadora** (Tim, Vivo, Claro, Oi) e por **Tecnologia** (4G, 5G, 3G, etc.).
 - 📊 **Indicadores em tempo real** – Veja a contagem total de antenas, operadoras disponíveis, tecnologias presentes e a distância da antena mais próxima.
@@ -60,3 +60,14 @@ Ao fazer o upload, o sistema espera que a planilha tenha as seguintes colunas (o
 5. Clique em **"Buscar"** para visualizar as antenas no mapa e na tabela.
 6. Use os filtros de Operadora e Tecnologia para refinar os resultados.
 7. Exporte os resultados em CSV clicando no botão **"CSV"** na tabela.
+
+## ☕ Apoie o projeto
+Se este dashboard ajudou você em seus estudos ou trabalho, considere contribuir com um café ☕!  
+Sua doação incentiva novas funcionalidades, correções e manutenção do projeto ou novas ideias.
+
+Como contribuir
+PIX: `QRCODE ABAIXO`
+PayPal: https://www.paypal.com/donate/?hosted_button_id=UK57366LPFBS8
+QR Code – aponte a câmera do seu celular para o código abaixo e faça sua doação via PIX:
+<img src="https://github.com/Ronaldo2644/dashboard-viabilidade_Movel/raw/main/QRCODE.jpeg" alt="QR Code PIX" width="200" height="200" />
+
